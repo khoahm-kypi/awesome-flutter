@@ -6,6 +6,7 @@
 - [Open Source](#Open-Source) : that we may find some good architecture here
 - [Awesome UI](#Awesome-UI) : We may find some beautiful UI/Animation here 
 - [Games](#Games) : Some Game/Minigame code by flutter
+- [Collections](#Collections) : Other Flutter Collections
 
 ### Open Source
 - [Rustdesk](https://github.com/rustdesk/rustdesk) open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
@@ -20,5 +21,6 @@
 ### Games
 - [Flutter.Bird](https://github.com/g0rdan/Flutter.Bird) - Clone of Flappy Bird game written on Flutter.
 
-
+### Collections
+- [Awesome Flutter](https://github.com/nepaul/awesome-flutter) - Awesome Flutter
 
