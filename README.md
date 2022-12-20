@@ -22,5 +22,6 @@
 - [Flutter.Bird](https://github.com/g0rdan/Flutter.Bird) - Clone of Flappy Bird game written on Flutter.
 
 ### Collections
-- [Awesome Flutter](https://github.com/nepaul/awesome-flutter) - Awesome Flutter
+- [Awesome Flutter By nepaul](https://github.com/nepaul/awesome-flutter) - Awesome Flutter By nepaul
+- [Awesome Flutter By Solido](https://github.com/Solido/awesome-flutter) - Awesome Flutter By Solido
 
